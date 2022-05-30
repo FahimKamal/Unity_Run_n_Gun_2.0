@@ -1,0 +1,7 @@
+
+PlayerMovement Function 
+Ground check
+//groundedPlayer = Physics.CheckSphere(groundCheck.position, groundDistance, groundMask);
+
+player move
+//controller.Move(move * Time.deltaTime * movementSpeed);
