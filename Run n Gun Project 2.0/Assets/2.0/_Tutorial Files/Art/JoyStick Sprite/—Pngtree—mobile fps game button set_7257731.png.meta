@@ -1,0 +1,828 @@
+fileFormatVersion: 2
+guid: 48dcc24a62e6bd54ba02cbb0cb5b7f55
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3644344253922169811
+    second: "\u2014Pngtree\u2014mobile fps game button set_7257731_0"
+  - first:
+      213: 8318774659403594825
+    second: "\u2014Pngtree\u2014mobile fps game button set_7257731_1"
+  - first:
+      213: -984751875793696226
+    second: "\u2014Pngtree\u2014mobile fps game button set_7257731_2"
+  - first:
+      213: -3999896391590219357
+    second: "\u2014Pngtree\u2014mobile fps game button set_7257731_3"
+  - first:
+      213: 651681553332800178
+    second: "\u2014Pngtree\u2014mobile fps game button set_7257731_4"
+  - first:
+      213: 754481551914056432
+    second: "\u2014Pngtree\u2014mobile fps game button set_7257731_5"
+  - first:
+      213: -6557316456614243319
+    second: "\u2014Pngtree\u2014mobile fps game button set_7257731_6"
+  - first:
+      213: -5615636542231766614
+    second: "\u2014Pngtree\u2014mobile fps game button set_7257731_7"
+  - first:
+      213: 1872795361889635215
+    second: "\u2014Pngtree\u2014mobile fps game button set_7257731_8"
+  - first:
+      213: 1573902062006984217
+    second: "\u2014Pngtree\u2014mobile fps game button set_7257731_9"
+  - first:
+      213: -5171054442739232119
+    second: "\u2014Pngtree\u2014mobile fps game button set_7257731_10"
+  - first:
+      213: 4830981422764586872
+    second: "\u2014Pngtree\u2014mobile fps game button set_7257731_11"
+  - first:
+      213: -4418025423777585089
+    second: "\u2014Pngtree\u2014mobile fps game button set_7257731_13"
+  - first:
+      213: -4363531662342413211
+    second: "\u2014Pngtree\u2014mobile fps game button set_7257731_15"
+  - first:
+      213: -3017244532148813526
+    second: "\u2014Pngtree\u2014mobile fps game button set_7257731_16"
+  - first:
+      213: 3169732183575989918
+    second: "\u2014Pngtree\u2014mobile fps game button set_7257731_19"
+  - first:
+      213: -2126897301740728956
+    second: "\u2014Pngtree\u2014mobile fps game button set_7257731_20"
+  - first:
+      213: 5910370891196235214
+    second: "\u2014Pngtree\u2014mobile fps game button set_7257731_21"
+  - first:
+      213: -779852605424148774
+    second: "\u2014Pngtree\u2014mobile fps game button set_7257731_22"
+  - first:
+      213: 4305657278923573207
+    second: "\u2014Pngtree\u2014mobile fps game button set_7257731_23"
+  - first:
+      213: 5319564116973509542
+    second: "\u2014Pngtree\u2014mobile fps game button set_7257731_24"
+  - first:
+      213: -2756503811518983526
+    second: "\u2014Pngtree\u2014mobile fps game button set_7257731_25"
+  - first:
+      213: 4649785526889412607
+    second: "\u2014Pngtree\u2014mobile fps game button set_7257731_26"
+  - first:
+      213: -7840326874880525865
+    second: "\u2014Pngtree\u2014mobile fps game button set_7257731_27"
+  - first:
+      213: -1874629091759717025
+    second: "\u2014Pngtree\u2014mobile fps game button set_7257731_28"
+  - first:
+      213: 3210575970305288271
+    second: "\u2014Pngtree\u2014mobile fps game button set_7257731_29"
+  - first:
+      213: -6711169531463451726
+    second: "\u2014Pngtree\u2014mobile fps game button set_7257731_30"
+  - first:
+      213: -8526360619360164074
+    second: "\u2014Pngtree\u2014mobile fps game button set_7257731_31"
+  - first:
+      213: 2362101671276900090
+    second: "\u2014Pngtree\u2014mobile fps game button set_7257731_32"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014mobile fps game button set_7257731_0"
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 2849
+        width: 1028
+        height: 1025
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2cabb9a530bc6dc0800000000000000
+      internalID: -3644344253922169811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014mobile fps game button set_7257731_1"
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 3401
+        width: 472
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94cb54c5a79327370800000000000000
+      internalID: 8318774659403594825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014mobile fps game button set_7257731_2"
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 2954
+        width: 810
+        height: 811
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1aca6be2657552f0800000000000000
+      internalID: -984751875793696226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014mobile fps game button set_7257731_3"
+      rect:
+        serializedVersion: 2
+        x: 2123
+        y: 3401
+        width: 470
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1f5e89c638d78c0800000000000000
+      internalID: -3999896391590219357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014mobile fps game button set_7257731_4"
+      rect:
+        serializedVersion: 2
+        x: 2970
+        y: 2957
+        width: 807
+        height: 808
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba83158bec3b0900800000000000000
+      internalID: 651681553332800178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014mobile fps game button set_7257731_5"
+      rect:
+        serializedVersion: 2
+        x: 3059
+        y: 3714
+        width: 631
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa3c6b59f4787a00800000000000000
+      internalID: 754481551914056432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014mobile fps game button set_7257731_6"
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 2852
+        width: 469
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9045fa3cc6bbff4a0800000000000000
+      internalID: -6557316456614243319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014mobile fps game button set_7257731_7"
+      rect:
+        serializedVersion: 2
+        x: 2123
+        y: 2852
+        width: 470
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9929851504112b0800000000000000
+      internalID: -5615636542231766614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014mobile fps game button set_7257731_8"
+      rect:
+        serializedVersion: 2
+        x: 2862
+        y: 3043
+        width: 158
+        height: 633
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b4e6a85718df910800000000000000
+      internalID: 1872795361889635215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014mobile fps game button set_7257731_9"
+      rect:
+        serializedVersion: 2
+        x: 3727
+        y: 3043
+        width: 158
+        height: 633
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e5e25269f97d510800000000000000
+      internalID: 1573902062006984217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014mobile fps game button set_7257731_10"
+      rect:
+        serializedVersion: 2
+        x: 3059
+        y: 2848
+        width: 631
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982925ab169bc38b0800000000000000
+      internalID: -5171054442739232119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014mobile fps game button set_7257731_11"
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1570
+        width: 1028
+        height: 1026
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877f46422081b0340800000000000000
+      internalID: 4830981422764586872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014mobile fps game button set_7257731_13"
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 1573
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38a717e84500b2c0800000000000000
+      internalID: -4418025423777585089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014mobile fps game button set_7257731_15"
+      rect:
+        serializedVersion: 2
+        x: 2970
+        y: 1680
+        width: 807
+        height: 807
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56429e3721f9173c0800000000000000
+      internalID: -4363531662342413211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014mobile fps game button set_7257731_16"
+      rect:
+        serializedVersion: 2
+        x: 3059
+        y: 2437
+        width: 631
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21c7c485189026d0800000000000000
+      internalID: -3017244532148813526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014mobile fps game button set_7257731_19"
+      rect:
+        serializedVersion: 2
+        x: 2857
+        y: 1767
+        width: 163
+        height: 633
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e8b2380a62dfb20800000000000000
+      internalID: 3169732183575989918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014mobile fps game button set_7257731_20"
+      rect:
+        serializedVersion: 2
+        x: 3727
+        y: 1769
+        width: 158
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48dc1004c2ebb72e0800000000000000
+      internalID: -2126897301740728956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014mobile fps game button set_7257731_21"
+      rect:
+        serializedVersion: 2
+        x: 3059
+        y: 1571
+        width: 631
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd7f84d20bd50250800000000000000
+      internalID: 5910370891196235214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014mobile fps game button set_7257731_22"
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 293
+        width: 1028
+        height: 1025
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aded78cef286d25f0800000000000000
+      internalID: -779852605424148774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014mobile fps game button set_7257731_23"
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 847
+        width: 469
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d780da9b74c0cb30800000000000000
+      internalID: 4305657278923573207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014mobile fps game button set_7257731_24"
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 402
+        width: 807
+        height: 808
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6abde105163e2d940800000000000000
+      internalID: 5319564116973509542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014mobile fps game button set_7257731_25"
+      rect:
+        serializedVersion: 2
+        x: 2123
+        y: 847
+        width: 470
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a929664536eeeb9d0800000000000000
+      internalID: -2756503811518983526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014mobile fps game button set_7257731_26"
+      rect:
+        serializedVersion: 2
+        x: 2970
+        y: 402
+        width: 807
+        height: 808
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff7fef31d4b578040800000000000000
+      internalID: 4649785526889412607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014mobile fps game button set_7257731_27"
+      rect:
+        serializedVersion: 2
+        x: 3059
+        y: 1159
+        width: 631
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d93cc34f30913390800000000000000
+      internalID: -7840326874880525865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014mobile fps game button set_7257731_28"
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 296
+        width: 469
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f558c04f5cafbf5e0800000000000000
+      internalID: -1874629091759717025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014mobile fps game button set_7257731_29"
+      rect:
+        serializedVersion: 2
+        x: 2123
+        y: 293
+        width: 470
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48a37aa5d14e8c20800000000000000
+      internalID: 3210575970305288271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014mobile fps game button set_7257731_30"
+      rect:
+        serializedVersion: 2
+        x: 2857
+        y: 491
+        width: 163
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb32b15ed22dd2a0800000000000000
+      internalID: -6711169531463451726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014mobile fps game button set_7257731_31"
+      rect:
+        serializedVersion: 2
+        x: 3727
+        y: 488
+        width: 158
+        height: 634
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6176828f0384ca980800000000000000
+      internalID: -8526360619360164074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014mobile fps game button set_7257731_32"
+      rect:
+        serializedVersion: 2
+        x: 3059
+        y: 293
+        width: 631
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afee0df74fed7c020800000000000000
+      internalID: 2362101671276900090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

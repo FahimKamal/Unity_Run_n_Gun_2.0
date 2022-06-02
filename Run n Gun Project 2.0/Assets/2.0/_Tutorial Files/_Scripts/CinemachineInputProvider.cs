@@ -22,14 +22,7 @@ public class CinemachineInputProvider : MonoBehaviour, AxisState.IInputAxisProvi
     public int PlayerIndex = -1;
 
     public FixedJoystick lookStick;
-
-    public Vector2 delta;
     public float multiplier = 50.0f;
-
-    private void Update()
-    {
-        delta = lookStick.Direction;
-    }
 
     /// <summary>Vector2 action for XY movement</summary>
     [Tooltip("Vector2 action for XY movement")]

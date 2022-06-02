@@ -8,6 +8,7 @@ public class UIAndbuttonHandler : MonoBehaviour
     public PlayerController playerController;
     public GameManager gameManager;
     public GameObject aimCanvas;
+    public GameObject thirdPersonCanvas;
 
     public GameObject mainMenu;
     public GameObject pauseMenu;
@@ -71,6 +72,8 @@ public class UIAndbuttonHandler : MonoBehaviour
         {
             aimCanvas.SetActive(false);
         }
+        else
+            thirdPersonCanvas.SetActive(false);
         
         //Cursor.lockState = CursorLockMode.Confined;
     }
@@ -88,6 +91,8 @@ public class UIAndbuttonHandler : MonoBehaviour
         {
             aimCanvas.SetActive(true);
         }
+        else
+            thirdPersonCanvas.SetActive(true);
     }
 
     public void StartGame(int difficulty)
@@ -105,6 +110,7 @@ public class UIAndbuttonHandler : MonoBehaviour
             playerController.movementSpeed = playerController.hardMovementSpeed;
         }
 
+        thirdPersonCanvas.SetActive(true);
         pauseMenuActive = true;
         isGamePlaying = true;
         mainMenu.SetActive(false);

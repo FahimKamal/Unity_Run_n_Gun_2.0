@@ -21,14 +21,14 @@ public class JoyStickController : MonoBehaviour
     {
         
         playerController.movementInput.x = movementStick.Horizontal;
-        if(movementStick.Vertical > 0.6)
-        {
-            TouchJump();
-        }
-        if (movementStick.Vertical < -0.6)
-        {
-            TouchRoll();
-        }
+        //if(movementStick.Vertical > 0.6)
+        //{
+        //    TouchJump();
+        //}
+        //if (movementStick.Vertical < -0.6)
+        //{
+        //    TouchRoll();
+        //}
     }
 
     public void TouchJump()
