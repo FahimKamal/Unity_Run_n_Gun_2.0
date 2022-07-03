@@ -17,7 +17,7 @@ public class PlayerController : MonoBehaviour
     [SerializeField]
     private GameObject thirdPersonCamera;
 
-    public float easyMovementSpeed = 15.0f;
+    public float easyMovementSpeed = 2.0f;
     public float normalMovementSpeed = 20.0f;
     public float hardMovementSpeed = 30.0f;
     public float aimMovementSpeed = 7.0f;
